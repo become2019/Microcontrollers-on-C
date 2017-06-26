@@ -1,4 +1,4 @@
-# SCM-on-C
+# Microcontrollers-on-C
 CUIT单片机课程
 # 实验环境
 SDCC编译器，硬件：89V51RB2单片机
